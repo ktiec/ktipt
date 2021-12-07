@@ -1,0 +1,4 @@
+1. Install git from https://git-scm.com/
+2. Install python from https://www.python.org/
+3. Open an elevated powershell and run pip install cookiecutter
+4. Wherever you want to create a new project, open a powershell and run cookiecutter https://github.com/ktiec/ktipt
