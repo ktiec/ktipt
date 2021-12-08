@@ -1,3 +1,5 @@
 {
-    "project_name": "New Project"
+    "customer": "Arcelor Mittal Indiana Harbor",
+    "product": ["KT2000", "KT450"],
+    "project_type": ["Service",  "Commissioning"]
 }
